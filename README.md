@@ -7,4 +7,4 @@ In this project we will see how to connect our arduino board to a mini program w
 
 
 ## Contact
-- Don't forget to contact with me!
+- Don't forget to contact with me! [Josep.Guiu.Dev@gmail.com](mailto:Josep.Guiu.Dev@gmail.com).
